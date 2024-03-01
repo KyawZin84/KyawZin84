@@ -1,8 +1,7 @@
 
-- <h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>
+<h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawzin84&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzin84" /> </p>
 - 👀 I’m interested in React,React Native,Django
 
 - 🌱 I’m currently learning **React,Django,vue**
@@ -20,10 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawzin84&show_icons=true&locale=en" alt="kyawzin84" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawzin84&" alt="kyawzin84" /></p>
-
-
-<!---
-KyawZin84/KyawZin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
