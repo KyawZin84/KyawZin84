@@ -1,5 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=188AF7&center=true&random=false&width=435&lines=Hi+I+Am+Kyaw+Zin+Thet;I'm+20+Years+Old;My+Favourite+language+is+Javascript" alt="Typing SVG" /></a>
+</center>
+  <!--<h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>-->
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
 - 👀 I’m interested in React,React Native,Django
