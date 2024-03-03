@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=188AF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+KyawZinThet;I'm+20+years+old;My+Favourite+language+is+Javascript;)](https://git.io/typing-svg)
 
   <!--<h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>-->
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
