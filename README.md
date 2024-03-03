@@ -1,6 +1,5 @@
-<center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=188AF7&center=true&random=false&width=435&lines=Hi+I+Am+Kyaw+Zin+Thet;I'm+20+Years+Old;My+Favourite+language+is+Javascript" alt="Typing SVG" /></a>
-</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
   <!--<h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>-->
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
