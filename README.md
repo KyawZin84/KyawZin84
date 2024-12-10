@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in React,React Native,Django
 
-- 🌱 I’m currently learning **React,Django,vue**
+- 🌱 I’m currently learning **React,Django,Next,Laravel**
 
 - 👯 I’m looking to collaborate on **POS,E-commerce Website and HRMS software**
 
